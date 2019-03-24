@@ -1,0 +1,392 @@
+{
+	"arrows" : [
+		{
+			"isAlternative" : true,
+			"position" : [
+				150,
+				100
+			],
+			"isReversed" : true
+		},
+		{
+			"isAlternative" : false,
+			"position" : [
+				435,
+				100
+			],
+			"isReversed" : false
+		},
+		{
+			"isAlternative" : false,
+			"position" : [
+				580,
+				100
+			],
+			"isReversed" : false
+		},
+		{
+			"isAlternative" : false,
+			"position" : [
+				755,
+				100
+			],
+			"isReversed" : false
+		},
+		{
+			"isAlternative" : false,
+			"position" : [
+				943,
+				100
+			],
+			"isReversed" : false
+		}
+	],
+	"rainbows" : [
+		{
+			"position" : [
+				625,
+				766
+			],
+			"rotation" : 0
+		}
+	],
+	"layoutStructure" : {
+		"isFinishReversed" : false,
+		"startPosition" : [
+			150,
+			207
+		],
+		"overlayPath" : "Levels\/5\/Overlay",
+		"physicsBorderPath" : "Levels\/5\/PhysicsBorder",
+		"isStartReversed" : true,
+		"levelRect" : [
+			[
+				522,
+				466
+			],
+			[
+				1044,
+				932
+			]
+		],
+		"finishPosition" : [
+			943,
+			513
+		]
+	},
+	"physicsBodys" : [
+
+	],
+	"switches" : [
+		{
+			"isReversed" : true,
+			"isActive" : true,
+			"key" : "green",
+			"name" : "greenSwitch",
+			"position" : [
+				617,
+				619
+			],
+			"color" : {
+				"red" : 0.48999999999999999,
+				"alpha" : 1,
+				"blue" : 0.13,
+				"green" : 0.81999999999999995
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : true,
+			"key" : "red",
+			"name" : "redSwitch",
+			"position" : [
+				977,
+				752
+			],
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 0
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : false,
+			"key" : "purple",
+			"name" : "purpleSwitch",
+			"position" : [
+				174,
+				788
+			],
+			"color" : {
+				"red" : 0.5,
+				"alpha" : 1,
+				"blue" : 0.5,
+				"green" : 0
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : true,
+			"key" : "orange",
+			"name" : "orangeSwitch",
+			"position" : [
+				174,
+				709
+			],
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 0.5
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : true,
+			"key" : "yellow",
+			"name" : "yellowSwitch",
+			"position" : [
+				90,
+				296
+			],
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 1
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : true,
+			"key" : "gray",
+			"name" : "graySwitch",
+			"position" : [
+				537,
+				350
+			],
+			"color" : {
+				"red" : 0.5,
+				"alpha" : 1,
+				"blue" : 0.5,
+				"green" : 0.5
+			}
+		},
+		{
+			"isReversed" : false,
+			"isActive" : true,
+			"key" : "blue",
+			"name" : "blueSwitch",
+			"position" : [
+				248,
+				788
+			],
+			"color" : {
+				"red" : 0,
+				"alpha" : 1,
+				"blue" : 1,
+				"green" : 0
+			}
+		}
+	],
+	"levelNum" : 5,
+	"bridges" : [
+		{
+			"key" : "green",
+			"color" : {
+				"red" : 0.48999999999999999,
+				"alpha" : 1,
+				"blue" : 0.13,
+				"green" : 0.81999999999999995
+			},
+			"rect" : [
+				[
+					877,
+					365
+				],
+				[
+					127,
+					23
+				]
+			]
+		},
+		{
+			"key" : "purple",
+			"color" : {
+				"red" : 0.5,
+				"alpha" : 1,
+				"blue" : 0.5,
+				"green" : 0
+			},
+			"rect" : [
+				[
+					73,
+					635
+				],
+				[
+					133,
+					32
+				]
+			]
+		},
+		{
+			"key" : "red",
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 0
+			},
+			"rect" : [
+				[
+					877,
+					455
+				],
+				[
+					127,
+					23
+				]
+			]
+		},
+		{
+			"key" : "red",
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 0
+			},
+			"rect" : [
+				[
+					150,
+					445
+				],
+				[
+					188,
+					32
+				]
+			]
+		},
+		{
+			"key" : "orange",
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 0.5
+			},
+			"rect" : [
+				[
+					877,
+					188
+				],
+				[
+					127,
+					23
+				]
+			]
+		},
+		{
+			"key" : "gray",
+			"color" : {
+				"red" : 0.5,
+				"alpha" : 1,
+				"blue" : 0.5,
+				"green" : 0.5
+			},
+			"rect" : [
+				[
+					220,
+					635
+				],
+				[
+					119,
+					32
+				]
+			]
+		},
+		{
+			"key" : "gray",
+			"color" : {
+				"red" : 0.5,
+				"alpha" : 1,
+				"blue" : 0.5,
+				"green" : 0.5
+			},
+			"rect" : [
+				[
+					560,
+					500
+				],
+				[
+					32,
+					133
+				]
+			]
+		},
+		{
+			"key" : "blue",
+			"color" : {
+				"red" : 0,
+				"alpha" : 1,
+				"blue" : 1,
+				"green" : 0
+			},
+			"rect" : [
+				[
+					690,
+					705
+				],
+				[
+					130,
+					28
+				]
+			]
+		},
+		{
+			"key" : "blue",
+			"color" : {
+				"red" : 0,
+				"alpha" : 1,
+				"blue" : 1,
+				"green" : 0
+			},
+			"rect" : [
+				[
+					595,
+					302
+				],
+				[
+					59,
+					28
+				]
+			]
+		},
+		{
+			"key" : "yellow",
+			"color" : {
+				"red" : 1,
+				"alpha" : 1,
+				"blue" : 0,
+				"green" : 1
+			},
+			"rect" : [
+				[
+					877,
+					275
+				],
+				[
+					127,
+					23
+				]
+			]
+		}
+	],
+	"ratingOptions" : {
+		"single" : 200,
+		"double" : 160,
+		"triple" : 120
+	}
+}

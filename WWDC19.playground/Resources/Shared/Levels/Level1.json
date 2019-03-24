@@ -1,0 +1,93 @@
+{
+	"arrows" : [
+		{
+			"isAlternative" : false,
+			"position" : [
+				248,
+				325
+			],
+			"isReversed" : false
+		}
+	],
+	"rainbows" : [
+		{
+			"position" : [
+				337,
+				474
+			],
+			"rotation" : 0
+		}
+	],
+	"layoutStructure" : {
+		"isFinishReversed" : true,
+		"startPosition" : [
+			250,
+			305
+		],
+		"overlayPath" : "Levels\/1\/Overlay",
+		"physicsBorderPath" : "Levels\/1\/PhysicsBorder",
+		"isStartReversed" : false,
+		"levelRect" : [
+			[
+				250,
+				450
+			],
+			[
+				500,
+				500
+			]
+		],
+		"finishPosition" : [
+			115,
+			477
+		]
+	},
+	"physicsBodys" : [
+
+	],
+	"switches" : [
+		{
+			"isReversed" : true,
+			"isActive" : false,
+			"key" : "green",
+			"name" : "greenSwitch",
+			"position" : [
+				382,
+				637
+			],
+			"color" : {
+				"red" : 0.48999999999999999,
+				"alpha" : 1,
+				"blue" : 0.13,
+				"green" : 0.81999999999999995
+			}
+		}
+	],
+	"levelNum" : 1,
+	"bridges" : [
+		{
+			"key" : "green",
+			"color" : {
+				"red" : 0.48999999999999999,
+				"alpha" : 1,
+				"blue" : 0.13,
+				"green" : 0.81999999999999995
+			},
+			"rect" : [
+				[
+					220,
+					422
+				],
+				[
+					60,
+					23
+				]
+			]
+		}
+	],
+	"ratingOptions" : {
+		"single" : 60,
+		"double" : 45,
+		"triple" : 30
+	}
+}
